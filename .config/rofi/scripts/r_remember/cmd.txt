@@ -20,6 +20,10 @@ Python| deactivate|python.png
 Pnpm | pnpm dev|node.png
 Pnpm | pnpm create vite|node.png
 Pnpm | pnpm build|node.png
+DotNet | dotnet run|dotnet.png
+DotNet | dotnet build|dotnet.png
+DotNet | dotnet new name.app|dotnet.png
+DotNet | dotnet new install name.Templates|dotnet.png
 Docker| docker compose up -d|docker.png
 Docker| docker-compose down|docker.png
 Dccker| docker-compose up -d --force-recreate|docker.png
