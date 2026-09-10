@@ -310,8 +310,8 @@
     },
     //Screen share
     "custom/share": {
-        "format": "",
-        "on-click": "hyprctl keyword monitor \"HDMI-A-1,preferred,auto,1,mirror,eDP-1\"",
+        "format": "󱟲",
+        "on-click": "~/.config/rofi/scripts/r_wallpaper/wallpaper-rofi.sh",
         "tooltip": false
     },
     //Arch logo
